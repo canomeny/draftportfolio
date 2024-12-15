@@ -1,0 +1,42 @@
+.stuff {
+	background-color: #AB9CA5;
+	padding:12px;
+	font-family:scotch-deck, sans-serif;
+	margin-bottom: 15px;
+}
+.header{
+	background-color: #4F3F50;
+	margin:0px;
+	color:white;
+	font-family: scotch-deck, sans-serif;
+}
+.subhead{
+	font-family:scotch-deck, sans-serif;
+}
+body{
+	background-color: #E5ECF0 !important;
+}
+
+a:link {
+  color: #0F191A !important;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited  {
+	color: #1E3234 !important;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+.vids {
+	height: 150px;
+	padding: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+
+
